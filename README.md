@@ -50,8 +50,9 @@ O notebook está organizado da seguinte maneira:
 O modelo preditivo foi avaliado com base em métricas de desempenho, permitindo identificar padrões significativos no comportamento dos clientes.  
 
 ## Autores
-- **Anderson Felipe Silva Aires**  
-- **Joberth Emanoel da Conceição Mateo Castro**  
-- **Maria Clara Cutrim Nunes Costa**  
-- **Wesley Silva Gomes** 
+- **Anderson Felipe Silva Aires** - [LinkedIn](https://www.linkedin.com/in/anderson-aires-b23720230/)  
+- **Joberth Emanoel da Conceição Mateo Castro** - [GitHub](https://github.com/JoberthCastro) | [LinkedIn](https://www.linkedin.com/in/joberth-castro-013840252)  
+- **Maria Clara Cutrim Nunes Costa** - [LinkedIn](https://www.linkedin.com/in/maria-clara-cutrim-nunes-costa-55b7a8248/)  
+- **Wesley Silva Gomes** - [GitHub](https://github.com/WesDevss) | [LinkedIn](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259/)  
+
 
