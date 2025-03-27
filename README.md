@@ -53,8 +53,5 @@ O modelo preditivo foi avaliado com base em métricas de desempenho, permitindo 
 - **Anderson Felipe Silva Aires**  
 - **Joberth Emanoel da Conceição Mateo Castro**  
 - **Maria Clara Cutrim Nunes Costa**  
-- **Wesley Silva Gomes**  
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+- **Wesley Silva Gomes** 
 
